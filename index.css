@@ -1,0 +1,33 @@
+#main {
+    width: 70%;
+    font-family: "Libre Franklin", "Helvetica Neue",                   helvetica, arial, sans-serif;
+    margin: auto;
+  }
+  #title {
+    text-align: center;
+    background-color:#85827d;
+    padding: 25px;
+    margin: auto;
+  }
+  #image {
+    display: block;
+    margin: auto;
+    padding: 10px;
+    width: 37.25%;
+    max-width: 500px;
+  }
+  #img-caption {
+    text-align: center;
+  }
+  #tribute-info {
+    display: block;
+    width: 85%;
+    margin: auto;
+  }
+  em {
+    font-weight: bold;
+  }
+  #tribute-link {
+    display: block; 
+    text-align: center;
+  }
